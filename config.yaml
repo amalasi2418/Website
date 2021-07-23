@@ -4,7 +4,7 @@ languageCode: en
 title: Hugo Apéro
 author: Alison Hill
 copyright: ''
-googleAnalytics: ''
+#googleAnalytics: ''
 disqusShortname: ''
 metaDataFormat: yaml
 footnoteReturnLinkContents: '&#8617;'
