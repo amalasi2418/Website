@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}" dir="ltr">
     {{- partial "head.html" . -}}
+    <head>
+      {{ if and (hugo.IsProduction) (.Site.Params.googleAnalyticsID) }}
+      {{ partial "analytics-gtag.html" . }}
+      {{ end }}
+      ...
+     </head>
     <body>
       <div class="grid-container{{ if .Params.layout }} {{ .Params.layout }}{{ end }}{{ if .IsHome }} home{{ end }}">
         {{- block "header" . }}{{- partial "header.html" . -}}{{- end }}
