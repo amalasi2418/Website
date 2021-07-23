@@ -1,0 +1,1 @@
+"0","consolidated <- timeline %>% group_by(Year, Event_type) %>% mutate(count = length(unique(Event_type)))"
