@@ -4,7 +4,7 @@ languageCode: en
 title: Hugo Apéro
 author: Alison Hill
 copyright: ''
-#googleAnalytics: ''
+googleAnalytics: 'UA-203062491-1'
 disqusShortname: ''
 metaDataFormat: yaml
 footnoteReturnLinkContents: '&#8617;'
@@ -38,7 +38,7 @@ params:
   headingFontFamily: "baskerville" #sans-serif
   logo: /img/rooster_colored.png #blogophonic-mark-dark.png
   # Google Analytics 4
-  googleAnalyticsID = "G-8FXPH3ZTWE"
+  #googleAnalyticsID = "G-8FXPH3ZTWE"
   mainSections:
     - blog
     - project
