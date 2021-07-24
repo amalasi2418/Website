@@ -5,8 +5,8 @@ date: '2021-07-24'
 slug: [Creating your own color palette for data visualization-Part 1]
 categories:
   - DataViz
-  - '''Color Palette'''
-  - '''Data Visualization'''
+  - Color Palette
+  - Data Visualization
 tags:
   - ggplot2
   - R
