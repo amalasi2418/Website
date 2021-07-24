@@ -1,7 +1,7 @@
 ---
 title: Creating your own color palette for data visualization-Part 1
 author: Abhinav Malasi
-date: '2021-07-24'
+date: '2021-07-24 11:59:59'
 slug: [Creating your own color palette for data visualization-Part 1]
 categories:
   - DataViz
