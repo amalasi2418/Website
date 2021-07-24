@@ -116,10 +116,15 @@ col_grad <- c("#6F4995","#8F69B6","#A789C5","#BCA5D3","#CDBBDE",
 So we saw that by properly following the properties of the color wheel and choosing the right scheme we can easily develop over own color palette. This process requires a lot of time to choose the right set of colors for your visualization as it forms an integral part of your data storytelling apart from the data and the story flow itself.
 
 This is the right direction to choose your colors for your visualization if you are a person who loves to explore by themselves and try to come up with their own unique styles. If you are not this type of person then no worries, there are a lot of inspirations worth exploring to enhance your visualization color choices to a whole new level. Here are my top 5 links for inspirations:
+
 https://color.adobe.com/create/color-wheel
+
 https://www.canva.com/
+
 https://coolors.co/
+
 https://colorhunt.co/
+
 https://www.design-seeds.com/by-color/
 
 ----
