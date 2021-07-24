@@ -14,7 +14,7 @@ excerpt: 'Using these 5 tips and tricks in your workflow can enhance your effici
 series: null
 layout: single
 ---
-The blog first appeared on Towards Data Science on Feb 9th, 2021 [Link](https://towardsdatascience.com/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335?sk=73118287f17ef06b421d35c708873deb).
+**The blog first appeared on Towards Data Science on Feb 9th, 2021. ([Link](https://towardsdatascience.com/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335?sk=73118287f17ef06b421d35c708873deb))**
 
 Whether you are working on your school project, term paper, master’s thesis, or a business presentation, the quality of the data translates well to the audience if the data is presented in a meaningful and aesthetically pleasing way. Although making an impactful figure from the data is challenging and time-consuming, but some small tips if implemented properly can make the workflow simpler and save a lot of time over the long run.
 
@@ -57,7 +57,7 @@ plot2 <- plot %+% temp
 plot2 + ylab("Assaults per 100,000")
 ```
 
-![image info](./pictures/Plot1.jpeg)
+![image info](./pictures/Plot2.jpeg)
 
 _Warning: For %+% to work, make sure the column names of the new data matches the column name of the dataset being replaced._
 
@@ -90,7 +90,7 @@ plot5 <- USArrests %>% ggplot(aes(States, Murder)) +
     theme_bw()
 plot3 + plot4 + plot5 + plot_layout(ncol = 3)
 ```
-![image info](./pictures/Plot2.jpeg)![image info](./pictures/Plot3.jpeg)![image info](./pictures/Plot4.jpeg)
+![image info](./pictures/Plot345-1.jpeg)
 
 **Tip #4: Reordering data using fct_reorder()**
 
@@ -106,7 +106,7 @@ plot6 <- USArrests %>% ggplot(aes(x = fct_reorder(States, Murder, .desc = FALSE)
     coord_flip()
 ```
 
-![image info](./pictures/Plot5.jpeg)
+![image info](./pictures/Plot6.jpeg)
 
 **Tip #5: ggsave() for saving plots**
 
