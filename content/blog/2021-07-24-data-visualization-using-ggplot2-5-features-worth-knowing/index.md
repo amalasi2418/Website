@@ -12,7 +12,7 @@ tags:
 subtitle: Tips to be more efficient using ggplot2 package for dataviz
 excerpt: 'Using these 5 tips and tricks in your workflow can enhance your efficiency creating data visualizations using ggplot2 package in R.'
 series: null
-layout: single
+layout: single-sidebar
 ---
 **The blog first appeared on Towards Data Science on Feb 9th, 2021. ([Link](https://towardsdatascience.com/data-visualization-using-ggplot2-5-features-worth-knowing-c0447a760335?sk=73118287f17ef06b421d35c708873deb))**
 
