@@ -36,6 +36,8 @@ The color theory guides choosing color combinations for visual effects or creati
 
 There are plenty of ways to choose colors for your color palette. The choice depends on what one wants to perceive once the colors are put to use. Are you looking for a color harmony or a contrasting image? If already not decided then try implementing different color schemes as discussed below.
 
+![image info](./color_wheel.jpg)
+
 For demonstration purposes, I will be using the mtcars dataset from the R data repository.
 
 _First thing to know about ggplot2 package is that they have their own color palettes. An interesting feature the ggplot2 package provide its end users is the flexibility to create their own color palette by **scale_color_manual()** function._
@@ -58,7 +60,7 @@ Here the plot shows the relation between gross horsepower and the weight of the 
     theme(panel.border = element_rect(colour = "black", fill=NA)))
 ```
 
-## INSERT PLOT HERE ##
+![image info](./Plot1.jpg)
 
 **Triadic** color combination is a selection of 3 equispaced colors from the color wheel creating vibrant and high contrasting images (top-right image of the color wheel).
 
@@ -77,7 +79,7 @@ The box plot helps to understand that as the number of cylinders increases, the 
   theme(panel.border = element_rect(colour = "black", fill=NA))
 ```
 
-## INSERT PLOT HERE ##
+![image info](./Plot2.jpg)
 
 **Tetradic** color combination, as the name suggests choosing four colors that form the corners of a rectangle or a square in the color wheel. This creates a color palette of dominant color and accent colors. Accent colors make it bolder and emphasize the contrast (bottom-left image of the color wheel). This color scheme is basically two sets of complementary colors as the opposite corners of the rectangle/square are complementary to each other.
 
@@ -105,7 +107,7 @@ col_grad <- c("#6F4995","#8F69B6","#A789C5","#BCA5D3","#CDBBDE",
         panel.border = element_rect(colour = "black", fill=NA)))
 ```
 
-## INSERT PLOT HERE ##
+![image info](./Plot5.png)
 
 ----
 
