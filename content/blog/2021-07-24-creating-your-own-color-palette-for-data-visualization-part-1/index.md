@@ -12,7 +12,7 @@ tags:
   - R
 subtitle: 'A comprehensive color guide to creating your personal color palettes for data visualization'
 excerpt: ''
-series: Color palette creation
+series: 'Color palette creation'
 layout: single-sidebar
 ---
 
