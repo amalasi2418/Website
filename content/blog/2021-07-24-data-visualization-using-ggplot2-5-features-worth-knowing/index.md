@@ -57,7 +57,7 @@ plot2 <- plot %+% temp
 plot2 + ylab("Assaults per 100,000")
 ```
 
-![image info](./pictures/Plot2.jpeg)
+![image info](./Plot2.jpeg)
 
 _Warning: For %+% to work, make sure the column names of the new data matches the column name of the dataset being replaced._
 
@@ -90,7 +90,7 @@ plot5 <- USArrests %>% ggplot(aes(States, Murder)) +
     theme_bw()
 plot3 + plot4 + plot5 + plot_layout(ncol = 3)
 ```
-![image info](./pictures/Plot345-1.jpeg)
+![image info](./Plot345-1.jpeg)
 
 **Tip #4: Reordering data using fct_reorder()**
 
@@ -106,7 +106,7 @@ plot6 <- USArrests %>% ggplot(aes(x = fct_reorder(States, Murder, .desc = FALSE)
     coord_flip()
 ```
 
-![image info](./pictures/Plot6.jpeg)
+![image info](./Plot6.jpeg)
 
 **Tip #5: ggsave() for saving plots**
 
