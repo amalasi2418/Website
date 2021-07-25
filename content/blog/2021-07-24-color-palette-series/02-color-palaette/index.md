@@ -1,5 +1,5 @@
 ---
-date: "2021-07-25 1:1:1"
+date: "2021-07-25"
 draft: false
 excerpt: Tutorial covering the basics of colors and all that needs to be understood to create your very own color palettes. The learning can be translated to any coding language.
 subtitle: "Balancing the tone, hue, and saturation to generate the perfect color gradients."
