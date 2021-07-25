@@ -14,7 +14,7 @@ excerpt: ''
 series: null
 layout: single-sidebar
 ---
-**The blog first appeared on Towards Data Science on Mar 14th, 2021. ([Link](https://towardsdatascience.com/the-hidden-beauty-of-pi-a694422a0740?sk=b7d675d419cae623577c60b4f0c5793c)**
+**The blog first appeared on Towards Data Science on Mar 14th, 2021. ([Link](https://towardsdatascience.com/the-hidden-beauty-of-pi-a694422a0740?sk=b7d675d419cae623577c60b4f0c5793c))**
 
 Apart from being the birthday of Albert Einstein, March 14 has a special significance. This day also has a nerdy twist to it being written as 3.14, being the approximation of pi constant, the day is officially celebrated as π day. Often people celebrate the day by baking or eating pie.
 

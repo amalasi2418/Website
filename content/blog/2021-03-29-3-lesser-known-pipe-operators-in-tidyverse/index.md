@@ -13,7 +13,7 @@ excerpt: ''
 series: null
 layout: single-sidebar
 ---
-**The blog first appeared on Towards Data Science on Mar 29th, 2021. ([Link](https://towardsdatascience.com/3-lesser-known-pipe-operators-in-tidyverse-111d3411803a?sk=b21d19ce378b9cef55932e8baddc2215)**
+**The blog first appeared on Towards Data Science on Mar 29th, 2021. ([Link](https://towardsdatascience.com/3-lesser-known-pipe-operators-in-tidyverse-111d3411803a?sk=b21d19ce378b9cef55932e8baddc2215))**
 
 Apart from hosting the main pipe operator %>% used by the Tidyverse community, the magrittr package in Tidyverse holds a few other pipe operators. The %>% pipe is widely used for data manipulations and is automatically loaded with Tidyverse.
 
