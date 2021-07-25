@@ -41,8 +41,6 @@ params:
   #googleAnalyticsID = "G-8FXPH3ZTWE"
   mainSections:
     - blog
-    - project
-    - talk
   navallcaps: yes
   orgLocal: #Anywhere
   orgName: Abhinav Malasi
