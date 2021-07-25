@@ -15,7 +15,7 @@ Now we will be focusing on alternative ways to enhance the visuals by understand
 
 > “Mere color, unspoiled by meaning, and unallied with definite form, can speak to the soul in a thousand different ways”. ~Oscar Wilde
 
-##Shades of black, white, and gray
+## Shades of black, white, and gray
 
 The RGB values are specified as (red, green, blue) and the intensity of each color varies between (0,255). So, for a red color RGB value is (255,0,0), for green color it is (0,255,0) and for blue color it is (0,0,255). Sometimes, the intensity values are defined in the range of (0,1). The conversion is simply dividing the RGB values by 255. So, for the red, green, and blue colors the RGB values in the (0,1) scale will be:
 
@@ -67,7 +67,7 @@ The **chroma (C)** on the other hand is the purest form of color without any ble
 
 Now we have all the definitions we need to know about colors, let's put all this knowledge to build our code.
 
-##Converting RGB to HSL
+## Converting RGB to HSL
 
 There are 2 ways we can convert RGB to HSL. The first method is to use the formulas defined in the previous section. The second and the shorter route is to use the `rgb2hsl()` function form the **plotwidgets package** of R. I will provide the code for the first method and the second method is left for the readers to explore.
 
@@ -151,17 +151,17 @@ p4 <- ggplot() +
 
 For plotting HCL, where C is chroma, one can use `hcl()` function instead of `hsv()` in the above code.
 
-##Converting HSL to RGB
+## Converting HSL to RGB
 
 For this part, we will ignore the mathematics for converting HSL to RGB and can directly use the `hsl2rgb()` function from the **plotwidgets package** of R. The input argument for the `hsl2rgb()` function is a matrix of 3 rows. The 3 rows represent the HSL values where H varies between (0°,360°). And the resulting output is also a matrix of 3 rows identified as RGB.
 
 ----
 
-##Conclusion
+## Conclusion
 
 So, we successfully demonstrated that by controlling the amount of black, white, or gray colors new color combinations can be created by blending them with pure colors. These combinations are color gradients of a single color. Further, getting to know about the difference in luminance, saturation, tints, and tones provides us the flexibility to blend the black, white, and gray colors in the right proportions to create color gradients of choice.
 
-###References
+### References
 
 https://www.xspdf.com/resolution/54613930.html
 
@@ -172,17 +172,3 @@ https://stackoverflow.com/questions/6615002/given-an-rgb-value-how-do-i-create-a
 https://www.december.com/html/spec/colorcodes.html
 
 The link to the complete code is [here](https://github.com/amalasi2418/Blog-post/tree/master/Color%20palette-part%202).
-
-## does this work?
-
-### or this?
-
----
-
-Let's start.
-
-## beginning
-
-## middle
-
-## end

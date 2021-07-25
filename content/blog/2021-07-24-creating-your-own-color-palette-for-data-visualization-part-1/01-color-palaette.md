@@ -13,17 +13,17 @@ Do you face difficulty choosing the right color combinations for your data visua
 
 Have you ever wondered, how designers, painters, cinematographers, and photographers choose the perfect color combinations? The perfect visualizations depicted by them are carefully curated by understanding what they want their audience to perceive. The perfect blend of colors and their vision provides an engaging visualization that not only is soothing to the eye but is aesthetically appealing. The trick used by the above-mentioned professions is that they know how to use the color wheel to make that perfect blend of colors. The color wheel was first made by nonother than Sir Issac Newton. Sir Issac Newton has contributed in various fields but let’s keep our focus on the current topic of the color wheel.
 
-##Color wheel
+## Color wheel
 
 There are two types of color wheels, one is digital and the other one consists of paints used by painters. The major difference between these two color wheels is the difference in the components of primary colors. The digital color wheel consists of RGB (red-green-blue) and for paints, it is RYB (red-yellow-blue). Mixing two primary colors result in secondary color and a combination of primary and secondary color results in tertiary color.
 
-##Color theory
+## Color theory
 
 The color theory guides choosing color combinations for visual effects or creating a color mix that can be vibrant, contrasting, or harmonious in nature. This is evident in nature as well, if one sees the rainbow, the transition of colors from red to blue are in harmony and relaxing to the eyes. And on this principle, the color wheel is made.
 
 ----
 
-##Understanding the color combinations
+## Understanding the color combinations
 
 There are plenty of ways to choose colors for your color palette. The choice depends on what one wants to perceive once the colors are put to use. Are you looking for a color harmony or a contrasting image? If already not decided then try implementing different color schemes as discussed below.
 
@@ -102,7 +102,7 @@ col_grad <- c("#6F4995","#8F69B6","#A789C5","#BCA5D3","#CDBBDE",
 
 ----
 
-##Conclusion
+## Conclusion
 
 So we saw that by properly following the properties of the color wheel and choosing the right scheme we can easily develop over own color palette. This process requires a lot of time to choose the right set of colors for your visualization as it forms an integral part of your data storytelling apart from the data and the story flow itself.
 
