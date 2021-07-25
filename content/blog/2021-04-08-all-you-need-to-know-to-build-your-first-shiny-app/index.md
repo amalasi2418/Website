@@ -12,7 +12,7 @@ tags:
 subtitle: 'Basic concepts covered from data prep to connecting UI and server to publishing the app online'
 excerpt: ''
 series: ~
-layout: single
+layout: single-sidebar
 ---
 **The blog first appeared on Towards Data Science on Mar 29th, 2021. ([Link](https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-shiny-app-653603fd80d9?sk=e946a37b454e803c5cf69b43e46f155c))**
 
