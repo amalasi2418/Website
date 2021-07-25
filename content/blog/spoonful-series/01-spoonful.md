@@ -1,11 +1,11 @@
 ---
-date: "2021-07-25 0:1:1"
+date: "2021-07-25 1:1:1"
 draft: false
 excerpt: Grid is the very first CSS module created specifically to solve the layout
   problems we’ve all been hacking our way around for as long as we’ve been making
   websites.
 subtitle: "Balancing the tone, hue, and saturation to generate the perfect color gradients."
-title: Creating your own color palette for data visualization-Part 2
+title: Creating your own color palette for data visualization-Part 1
 weight: 2
 ---
 
