@@ -1,5 +1,4 @@
 ---
-date: "2021-07-24 11:1:1"
 author: Abhinav Malasi
 cascade:
   author: Abhinav Malasi
