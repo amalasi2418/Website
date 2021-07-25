@@ -14,7 +14,7 @@ excerpt: ''
 series: ~
 layout: single-sidebar
 ---
-**The blog first appeared on Towards Data Science on Mar 29th, 2021. ([Link](https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-shiny-app-653603fd80d9?sk=e946a37b454e803c5cf69b43e46f155c))**
+**The blog first appeared on Towards Data Science on Apr 08th, 2021. ([Link](https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-shiny-app-653603fd80d9?sk=e946a37b454e803c5cf69b43e46f155c))**
 
 Shiny is one of the powerful tools in the hand of data analysts and data scientists to develop web-based applications and interactive data visualizations. The Shiny app consists of two important functions: UI and the server function. A key feature of Shiny is the use of reactive programming to automatically update the output when changes are made in the input.
 
