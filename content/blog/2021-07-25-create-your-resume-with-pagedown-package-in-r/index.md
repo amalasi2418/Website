@@ -42,15 +42,15 @@ The final goal is to get the customized template up and running as shown.
 
 To make your resume in RStudio first you have to install the `pagedown` package if not already done. The package comes with an inbuilt resume template. Start by creating a new `R Markdown` document after installing the `pagedown` package.
 
-## INSERT IMAGE HERE ##
+![image info](./Image1.jpg)
 
 A new window pops up on which choose the _From Template_ option and then _HTML Resume_ template by `pagedown` package and click _OK_.
 
-## INSERT IMAGE HERE ##
+![image info](./Image2.jpg)
 
 This will open the default version of the Resume on your RStudio. Knit the document, it might ask you to save the document first and after that, it will compile the resume and a new window will pop up with the resume. The default resume will look like this.
 
-## INSERT IMAGE HERE ##
+![image info](./Image3.jpg)
 
 ----
 
@@ -244,7 +244,7 @@ Now coming to the best part of the resume building where you can automate the da
 
 So let me demonstrate to you what it means to automate resume building by using the text from the default resume template. The first step is to create the CSV files. Here is the example for the CSV file details of work and education history.
 
-## INSERT IMAGE HERE ##
+![image info](./Image4.jpg)
 
 Once you have created the files you can use the resume template, link at the end. There are two R files associated with the template. The `gather_data.R` looks for the data source if it has to read from Google sheets or CSV files. The preference for this is indicated in the markdown file. The `parsing_functions.R` glues the relevant information in the markdown file when the functions related to education, work history, contact info, skills, etc. are called upon.
 
