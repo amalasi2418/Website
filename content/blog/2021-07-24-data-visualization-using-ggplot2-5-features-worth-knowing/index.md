@@ -4,7 +4,7 @@ author: "Abhinav Malasi"
 date: '2021-07-24 1:59:59'
 slug: [Data visualization using ggplot2]
 categories:
-- Data-Visualization
+- Data Visualization
 - DataViz
 tags:
 - ggplot2
