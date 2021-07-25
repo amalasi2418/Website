@@ -1,19 +1,10 @@
 ---
+date: "2021-07-25 0:1:1"
+draft: false
+excerpt: Tutorial covering the basics of colors and all that needs to be understood to create your very own color palettes. The learning can be translated to any coding language.
+subtitle: "A comprehensive color guide to creating your personal color palettes for data visualization."
 title: Creating your own color palette for data visualization-Part 1
-author: Abhinav Malasi
-date: '2021-07-24 11:59:59'
-slug: [Creating your own color palette for data visualization-Part 1]
-categories:
-  - DataViz
-  - Color Palette
-  - Data Visualization
-tags:
-  - ggplot2
-  - R
-subtitle: 'A comprehensive color guide to creating your personal color palettes for data visualization'
-excerpt: ''
-series: 
-layout: single-sidebar
+weight: 1
 ---
 
 **The blog first appeared on Towards Data Science on Feb 14th, 2021. ([Link](https://towardsdatascience.com/creating-your-own-color-palette-for-data-visualization-part-1-84df48954845?sk=b48e10721bf318cef334ce16e3eea7c1))**
