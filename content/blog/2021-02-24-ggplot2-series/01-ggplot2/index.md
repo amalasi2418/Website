@@ -1,8 +1,6 @@
 ---
 title: 'Master data visualization with ggplot2: scatter and box plots'
-author: Abhinav Malasi
 date: '2021-02-24'
-slug: []
 categories:
   - Data Visualization
   - DataViz
@@ -13,8 +11,8 @@ tags:
   - R
 subtitle: 'Your guide to data visualization using scatter and box plots with ggplot2 package in R'
 excerpt: ''
-series: ~
-layout: single
+draft: false
+weight: 1
 ---
 **The blog first appeared on Towards Data Science on July 16th, 2021. ([Link](https://towardsdatascience.com/master-data-visualization-with-ggplot2-scatter-and-box-plots-2f0c14cf2b26?sk=d68131a2be91f5b698d9b1652f244bc6))**
 
