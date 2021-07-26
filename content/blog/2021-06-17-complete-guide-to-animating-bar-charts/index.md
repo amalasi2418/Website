@@ -17,7 +17,7 @@ excerpt: ''
 series: ~
 layout: single-sidebar
 ---
-**The blog first appeared on Towards Data Science on Jun 06th, 2021. ([Link](https://towardsdatascience.com/hands-on-tutorial-f2ee5dc4d0a8?sk=c3a7c1c16eeefa0c8bdee88ecf888723))**
+**The blog first appeared on Towards Data Science on June 17th, 2021. ([Link](https://towardsdatascience.com/hands-on-tutorial-f2ee5dc4d0a8?sk=c3a7c1c16eeefa0c8bdee88ecf888723))**
 
 Data visualizations in the form of plot and infographics are the way to convey stories. The stories are appealing to the masses if they have substance to them and are self-explanatory. The reason infographics or presentations are more popular than a mere plot because they convey a story and are self-sufficient. A plot narrates only a part of the story. To make plots more meaningful, one can either stack series of plots faceted together or stack a series of plots to create an animation. A great example of this is the animation created by [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo) in which he compares life expectancy against income.
 
