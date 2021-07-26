@@ -101,7 +101,7 @@ c %>% filter(Year==1960) %>%
   coord_flip()
 ```
 
-![image info](./Fig1.jpg)
+![image info](./Fig1.jpeg)
 
 So, we have a bar plot requiring polishing. Few things we can do to improve the appearance of the plot is to remove the gray background and the legend. Add descriptive text to make it self-explanatory and increase the font size.
 
@@ -125,7 +125,7 @@ geom_text(aes(y=ifelse(GDP_bil_dol<1000, 500,GDP_bil_dol/2),
   ggtitle("Global GDP Ranking", subtitle = "Top 10 ranked countries for year: {frame_time}")
 ```
 
-![image info](./Fig2.jpg)
+![image info](./Fig2.jpeg)
 
 What we did is filtered the data and plotted the top 10 GDP values for the year 1960. Here is the list of the layers added to the `ggplot` and the idea behind using them.
 
