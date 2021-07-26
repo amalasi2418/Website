@@ -14,7 +14,7 @@ excerpt: ''
 draft: false
 weight: 1
 ---
-**The blog first appeared on Towards Data Science on July 16th, 2021. ([Link](https://towardsdatascience.com/master-data-visualization-with-ggplot2-scatter-and-box-plots-2f0c14cf2b26?sk=d68131a2be91f5b698d9b1652f244bc6))**
+**The blog first appeared on Towards Data Science on Feb 24th, 2021. ([Link](https://towardsdatascience.com/master-data-visualization-with-ggplot2-scatter-and-box-plots-2f0c14cf2b26?sk=d68131a2be91f5b698d9b1652f244bc6))**
 
 R users focusing on dashboards or data visualizations are inherently dependent on the `ggplot2 package`. It is the versatile package for plotting data based on the Grammar of Graphics. The idea behind it uses semantics like aesthetics, scales, and layers to build the visualization.
 
