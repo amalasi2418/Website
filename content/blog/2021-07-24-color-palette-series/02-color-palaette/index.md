@@ -1,11 +1,12 @@
 ---
-date: "2021-07-25"
+date: "2021-02-19"
 draft: false
 excerpt: Tutorial covering the basics of colors and all that needs to be understood to create your very own color palettes. The learning can be translated to any coding language.
 subtitle: "Balancing the tone, hue, and saturation to generate the perfect color gradients."
 title: Creating your own color palette for data visualization-Part 2
 weight: 2
 ---
+**The blog first appeared on Towards Data Science on Feb 19th, 2021. ([Link](https://towardsdatascience.com/creating-your-own-color-palette-for-data-visualization-part-2-7b02ebc31c19?sk=a6a5197d03dc50ec1e2c8e261910ef6d))**
 
 In the first part of the blog, we focused on the color theory and color wheel discussing different ways to choose the color combinations that could be either complementary, triadic, tetradic, analogous, and monochrome. The color choice drastically varied the visual perception from being contrasting to having a soothing effect on our eyes. The combinations that were made were done purely by choosing different colors from the color wheel.
 

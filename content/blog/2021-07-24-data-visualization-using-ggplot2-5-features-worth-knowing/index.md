@@ -1,7 +1,7 @@
 ---
 title: 'Data visualization using ggplot2: 5 features worth knowing'
 author: "Abhinav Malasi"
-date: '2021-07-24 1:59:59'
+date: '2021-02-09'
 slug: [Data visualization using ggplot2]
 categories:
 - Data Visualization

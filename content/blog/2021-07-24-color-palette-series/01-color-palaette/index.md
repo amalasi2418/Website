@@ -1,5 +1,5 @@
 ---
-date: "2021-07-24"
+date: "2021-02-14"
 draft: false
 excerpt: Tutorial covering the basics of colors and all that needs to be understood to create your very own color palettes. The learning can be translated to any coding language.
 subtitle: "A comprehensive color guide to creating your personal color palettes for data visualization."
