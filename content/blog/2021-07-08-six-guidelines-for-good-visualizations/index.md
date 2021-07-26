@@ -16,7 +16,7 @@ excerpt: ''
 series: ~
 layout: single-sidebar
 ---
-**The blog first appeared on Towards Data Science on July 08th, 2021. ([Link]https://towardsdatascience.com/six-guidelines-for-good-visualizations-7c1831cda29f?sk=d87e6228f06e6e8655dadad1a08e4e65))**
+**The blog first appeared on Towards Data Science on July 08th, 2021. ([Link](https://towardsdatascience.com/six-guidelines-for-good-visualizations-7c1831cda29f?sk=d87e6228f06e6e8655dadad1a08e4e65))**
 
 Here I discuss six guiding principles that I find very effective for creating good visualizations. Some are learned from experience/observations and others by the teaching of the pioneers of data visualizations.
 
