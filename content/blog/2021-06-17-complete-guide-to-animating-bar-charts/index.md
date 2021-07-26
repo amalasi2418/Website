@@ -39,7 +39,7 @@ The inspiration for creating the bar chart race animation is from the [Twitter p
 
 If you open the data file, you will notice the relevant columns starts from row 5. So you need to get rid of the first four lines. Either we can delete them manually, or we can write an argument while reading the CSV file to make the computer do it for you. Let us take the latter path. To read CSV files, load the `readr` package, and use the function `read.csv()`. The `skip = 4` argument skips the first four rows of the file. The data consists of country names, country codes, and GDP values. To make sure the country names and country code columns are of the string class, we will set the argument as `stringsAsFactors = False`.
 
-```{R}
+```{r class.source="watch-out"}
 gdp <- read.csv("C:/Users/amalasi/Documents/R/Blog post/Blog 14-animate/GDP/GDP.csv", 
                 skip = 4,stringsAsFactors = F)
 ```
