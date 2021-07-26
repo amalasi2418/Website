@@ -212,6 +212,8 @@ anim_save("myanimation.gif")
 ```
 Here is the complete code for creating both animation gifs.
 
+<script src="https://gist.github.com/amalasi2418/e1da69f898284811dbf489f7e5a477b6.js"></script>
+
 ## Conclusion
 
 In the above tutorial we achieved:
