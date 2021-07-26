@@ -1,8 +1,6 @@
 ---
 title: 'Master data visualization with ggplot2: histograms, bar, and density plots'
-author: Abhinav Malasi
 date: '2021-03-02'
-slug: []
 categories:
   - Data Visualization
   - DataViz
@@ -16,9 +14,8 @@ tags:
   - Density plots
 subtitle: 'Your guide on when and how to use histograms, bar, and density plots in R'
 excerpt: ''
-series: ~
-layout: single
 weight: 2
+draft: false
 ---
 **The blog first appeared on Towards Data Science on Mar 2nd, 2021. ([Link](https://towardsdatascience.com/master-data-visualization-with-ggplot2-histograms-bar-and-density-plots-86c8290c9adc?sk=17339a5298df8451cd6d0387f83eca4a))**
 
